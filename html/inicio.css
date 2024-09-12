@@ -1,0 +1,28 @@
+body{
+
+    background-color: gray;
+
+
+
+
+}
+
+#login{
+
+    display:flex;
+
+    justify-content: center;
+
+    
+
+}
+
+.card{
+    
+    background-color: black;
+
+    padding: 100px;
+
+
+
+}
